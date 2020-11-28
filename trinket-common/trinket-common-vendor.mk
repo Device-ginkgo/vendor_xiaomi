@@ -850,7 +850,6 @@ PRODUCT_PACKAGES += \
     WfdCommon \
     com.qti.snapdragon.sdk.display \
     vendor.qti.hardware.soter-V1.0-java \
-    qti-telephony-common
 
 vintf_fragments += \
     vendor/xiaomi/trinket-common/proprietary/vendor/etc/vintf/manifest/vendor.qti.gnss@3.0-service.xml:$(TARGET_COPY_OUT_VENDOR)/etc/vintf/manifest/vendor.qti.gnss@3.0-service.xml
